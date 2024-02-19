@@ -1,4 +1,4 @@
-app_name: poja-sary-mgr21001
+app_name: poja-sary-std22099
 cli_version: 11.2.0
 custom_java_deps: poja-custom-java-deps.txt
 custom_java_env_vars: poja-custom-java-env-vars.txt
